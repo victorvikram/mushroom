@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "Excalidraw", "README"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Excalidraw", "README.md"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
