@@ -88,6 +88,8 @@ Of course, even without inequality, problems remain. There are the classic probl
 
 Still, reducing inequality will make a huge difference. And it is reassuring to know that this can be done without creating another kind of inequality, the inequality of political power, that accompanies the centralization of state authority.
 
+*Contributors: Victor Odouard*
+
 [^axis]:Would be nice to do a piece on this, the axis of tyranny and why it might exist. Is it just two different ways of maintaining power?
 [^unique]:This is not to say that markets are the *only* good means of collectively organizing
 [^exceptions]:Granted, there are many exceptions to this. As an example: just because someone is willing to pay ten dollars for something doesn’t mean that an entrepreneur will correctly ascertain that fact. There are many failures of the market like this one, which I go into in [[why capitalism doesn't give us what we want]]

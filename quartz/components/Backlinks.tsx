@@ -14,7 +14,7 @@ const Backlinks: QuartzComponent = ({
   const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
   return (
     <div class={classNames(displayClass, "backlinks")}>
-      <h3>{i18n(cfg.locale).components.backlinks.title}</h3>
+      {backlinkFiles.length > 0 ? <h3>backlinks</h3> : null}
       <ul class="overflow">
         {backlinkFiles.length > 0 ? (
           backlinkFiles.map((f) => (
@@ -24,9 +24,7 @@ const Backlinks: QuartzComponent = ({
               </a>
             </li>
           ))
-        ) : (
-          <li>{i18n(cfg.locale).components.backlinks.noBacklinksFound}</li>
-        )}
+        ) : (null)}
       </ul>
     </div>
   )

@@ -1,3 +1,0 @@
-- reasons why people want freedom (probably taking a pluralistic approach of what freedom is)
-- what freedom is derived from why we would want freedom 
-- 
