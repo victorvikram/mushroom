@@ -1,4 +1,4 @@
-If you would like to contribute:
+## To use:
 1. Clone the repo
 2. Ask to be added as an editor
 3. Write away! I recommend using [obsidian](https://obsidian.md/)
